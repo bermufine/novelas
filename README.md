@@ -7,7 +7,6 @@
 
 {"descriptionNovela":"Novelas TV 3  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"NOVELAS TV 3"},
 
-
 {"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://s12.tntendirect.com/nt1/live/chunks.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"},
 
 {"descriptionNovela":"NollyWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.mmsiptv.com/droid/nollywoodfr/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk3MDhf/nollywood.jpg","titleNovela":"NOLLYWOOD TV"},
