@@ -3,7 +3,7 @@
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nolly-africa-hd/b6a3cee1-fbec-4b9c-84c2-9f1198760577/4.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
-{"descriptionNovela":"Afroland TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream.ads.ottera.tv/cl/9JLNcTFUbC5ZbfuXQpU_q/854x480_897600_3_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"AFROLAND TV"},
+{"descriptionNovela":"Afroland TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream.ads.ottera.tv/cl/o0VcubB0tV-5LbGuF5JYb/960x540_1240800_2_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"AFROLAND TV"},
 
 {"descriptionNovela":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titleNovela":"MABOKE TV"},
 
