@@ -3,7 +3,7 @@
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nolly-africa-hd/f265bd50-5e03-4499-9f5b-8a3b799a66d2/3.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
-{"descriptionNovela":"bbc drama est chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"BBC DRAMA TV"},
+{"descriptionNovela":"bbc drama est chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","titleNovela":"BBC DRAMA TV"},
 
 
 
