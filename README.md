@@ -13,6 +13,15 @@
 
 {"descriptionNovela":"MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili....","sourceNovela":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titleNovela":"MADI TV"},
 
+
+{"descriptionNovela":"AM SHOWCASE TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["http://102.132.19.90:8080/AMSHOWCASE/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titleNovela":"AM SHOWCASE TV"},
+
+
+
+
+
+
+
 {"descriptionNovela":"Afrowood Blockbuster TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/31e4b5ef-92a6-4de1-b273-d5362194d597/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFROWOOD BLOCKBUSTER TV"},
 
 {"descriptionNovela":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://190.61.102.67:31589/play/a08d/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 1"},
