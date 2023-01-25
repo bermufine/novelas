@@ -17,7 +17,7 @@
 
 {"descriptionNovela":"Afrowood Blockbuster TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/31e4b5ef-92a6-4de1-b273-d5362194d597/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFROWOOD BLOCKBUSTER TV"},
 
-{"descriptionNovela":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://190.61.102.67:31589/play/a08d/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 1"},
+{"descriptionNovela":"NOVELAS TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream.ads.ottera.tv/cl/230124cf84gsk97dv494hr1n80/854x480_550000_3_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 1"},
 
 {"descriptionNovela":"Nzoyi TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://helga.iptv2022.com/Nzoyi_TV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjA4MDNf/Nzoyi.jpg","titleNovela":"NZOYI TV"},
 
