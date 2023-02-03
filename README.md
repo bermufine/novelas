@@ -41,7 +41,7 @@
 
 {"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://s13.tntendirect.com/tf1/live/chunks.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TFX TV"},
 
-{"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/e0e390e0-7729-474f-879b-fc7c6672c25d/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA TV"},
+{"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/cd0177e8-1214-4726-8244-4ede34797911/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA TV"},
 
 {"descriptionNovela":"My Movie aNGLAIS est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://connectiktv.ddns.me:8080/live/62124b57a827d/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"MY MOVIE / ENGLISH"},
 
