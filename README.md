@@ -1,6 +1,10 @@
 # novelas
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/chunklist_b4628000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"IDF 1 TV"},
 
+{"descriptionNovela":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","sourceNovela":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titleNovela":"TELEVISA TV"},
+
+{"descriptionNovela":"Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV 4"},
+
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nolly-africa-hd/edf73267-74db-47bb-b896-0791a97e655b/5.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
 {"descriptionNovela":"bbc drama est chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","titleNovela":"BBC DRAMA TV"},
@@ -49,8 +53,4 @@
 
 {"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},{"descriptionNovela":"CANAL+ SERIE est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["https://stream.mmsiptv.com/droid/aplus/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODcwMDNf/canalplustwo.jpg","titleNovela":"CANAL+ SERIE"},
 
-{"descriptionNovela":"My Movie Francais est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://connectiktv.ddns.me:8080/live/6212497dad9a9/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"MY MOVIE / FRANCAIS"},
-
-{"descriptionNovela":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","sourceNovela":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjM0MzEyNzhf/mango.jpeg","titleNovela":"TELEVISA TV"},
-
-{"descriptionNovela":"Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV 4"}]}]}
+{"descriptionNovela":"My Movie Francais est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://connectiktv.ddns.me:8080/live/6212497dad9a9/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"MY MOVIE / FRANCAIS"}]}]}
