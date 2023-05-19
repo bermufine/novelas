@@ -21,17 +21,32 @@
 
 {"descriptionNovela":"Afrowood Blockbuster TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/3998f30e-9029-4a0a-b295-38b2dcd9ccb5/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFROWOOD BLOCKBUSTER TV"},
 
-{"descriptionNovela":"NOVELAS TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream.ads.ottera.tv/cl/230124cf84gsk97dv494hr1n80/854x480_550000_3_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 1"},
+http://162.19.18.141:49214/TF1_SERIES_FILMS/hls/playlist.m3u8
+
+http://162.19.18.141:49214/TF1/hls/playlist.m3u8
+
+http://45.228.234.162:24000/play/a07x/index.m3u8
+TNT série 
+
+http://45.228.234.162:24000/play/a059/index.m3u8
+Rcn série 
+
+http://45.228.234.162:24000/play/a080/index.m3u8
+Passiones
+
+http://162.19.18.141:49214/TFX/hls/playlist.m3u8
+
+http://162.19.18.141:49214/TF1/hls/playlist.m3u8
+
+
+
+{"descriptionNovela":"AB1 TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://162.19.18.141:49214/AB1/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"AB1 TV"},
 
 {"descriptionNovela":"Nzoyi TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://helga.iptv2022.com/Nzoyi_TV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjA4MDNf/Nzoyi.jpg","titleNovela":"NZOYI TV"},
 
 {"descriptionNovela":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleNovela":"RTI 2"},
 
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
-
 {"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://41.215.252.18:8080/live/tf1.enc/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
-
-{"descriptionNovela":"Afrowood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-series/9e57c5a7-2699-4fe6-bb2e-0320ce0bb5ae/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","titleNovela":"AFROWOOD SERIES TV"},
 
 {"descriptionNovela":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://51.210.1.13:18000/novelas/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 1"},
 
@@ -45,12 +60,19 @@
 
 {"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA TV"},
 
+{"descriptionNovela":"Teva TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://162.19.18.141:49214/TEVA/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"TEVA TV"},
+
 {"descriptionNovela":"My Movie aNGLAIS est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://connectiktv.ddns.me:8080/live/62124b57a827d/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"MY MOVIE / ENGLISH"},
 
-{"descriptionNovela":"True Africa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/76bbef17-0ea6-4b89-9630-ae688c2b666c/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA TV"},
-
-{"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},{"descriptionNovela":"CANAL+ SERIE est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["https://stream.mmsiptv.com/droid/aplus/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODcwMDNf/canalplustwo.jpg","titleNovela":"CANAL+ SERIE"},
+{"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://162.19.18.141:49214/SERIE_CLUB/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODcwMDNf/canalplustwo.jpg","titleNovela":"SERIE CLUB"},
 
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/chunklist_b4628000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"IDF 1 TV"},
 
-{"descriptionNovela":"My Movie Francais est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://connectiktv.ddns.me:8080/live/6212497dad9a9/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleNovela":"MY MOVIE / FRANCAIS"}]}]}
+{"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},
+
+{"descriptionNovela":"True Africa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/76bbef17-0ea6-4b89-9630-ae688c2b666c/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA TV"},
+
+{"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://45.228.234.162:24000/play/a04e/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","titleNovela":"TELEMUNDO TV"},
+
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
+]}]}
