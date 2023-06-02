@@ -1,5 +1,7 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","sourceNovela":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titleNovela":"TELEVISA TV"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Vix Novelasde Romance TV est l'une chaînes mexicaines qui diffuse les séries Novelas mexicaines en espagnole","sourceNovela":["https://linear-194.frequency.stream/194/hls/master/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk4NDg5OTlf/Vixromance-1.jpg","titleNovela":"VIX ROMANCE NOVELAS"},
+
+{"descriptionNovela":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","sourceNovela":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titleNovela":"TELEVISA TV"},
 
 {"descriptionNovela":"Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV 4"},
 
@@ -55,7 +57,7 @@
 
 {"descriptionNovela":"Afrowood Blockbuster TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/3998f30e-9029-4a0a-b295-38b2dcd9ccb5/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFROWOOD BLOCKBUSTER TV"},
 
-{"descriptionNovela":"True Africa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/76bbef17-0ea6-4b89-9630-ae688c2b666c/1.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA TV"},
+{"descriptionNovela":"Vix Novelas TV est chaîne de divertissement, des films et series mexicaines pour votre divertissement","sourceNovela":["https://linear-196.frequency.stream/196/hls/master/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"VIX NOVELAS"},
 
 {"descriptionNovela":"Afroland TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://181.119.66.30:8000/play/TELENOVELAS/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"TELE NOVELAS"},
 
