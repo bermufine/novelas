@@ -17,19 +17,13 @@
 
 {"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA TV"},
 
-{"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},
-
-{"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://181.119.66.30:8000/play/73/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY   AFRICA"},
-
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
-
-{"descriptionNovela":"AM SHOWCASE TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["http://102.132.19.90:8080/AMSHOWCASE/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY4NDkyNzZf/Amshowcase.png","titleNovela":"AM SHOWCASE TV"},
 
 {"descriptionNovela":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFRICAWOOD BLOCKBUSTER"},
 
 {"descriptionNovela":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA"},
 
-{"descriptionNovela":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"AFRIWOOD SERIES TV"},
+{"descriptionNovela":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","titleNovela":"AFRIWOOD SERIES TV"},
 
 {"descriptionNovela":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleNovela":"RTI 2"},
 
@@ -62,6 +56,12 @@
 {"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://hls.newworldtv.com/nw-sport-4/video/live.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
 {"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://162.19.18.141:49214/TF1_SERIES_FILMS/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES FILMS"},
+
+{"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},
+
+{"descriptionNovela":"AM SHOWCASE TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["http://102.132.19.90:8080/AMSHOWCASE/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY4NDkyNzZf/Amshowcase.png","titleNovela":"AM SHOWCASE TV"},
+
+{"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://181.119.66.30:8000/play/73/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
 {"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://162.19.18.141:49214/TFX/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"},
 
