@@ -3,14 +3,16 @@
 
 {"descriptionNovela":"Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sourceNovela":["https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"VIX PAREJAS NOVELAS"},
 
-{"descriptionNovela":"Vix Novelas TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sourceNovela":["https://linear-196.frequency.stream/196/hls/master/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"VIX NOVELAS"},
+{"descriptionNovela":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFRICAWOOD BLOCKBUSTER"},
 
-{"descriptionNovela":"Vix Family Novelas TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://linear-195.frequency.stream/195/hls/master/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"VIX FAMILY NOVELAS"},
+{"descriptionNovela":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","titleNovela":"TRUE AFRICA"},
+
+{"descriptionNovela":"Afroland TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","titleNovela":"AFROLAND TV"},
 
 {"descriptionNovela":"Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.","sourceNovela":["https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg","titleNovela":"TELEVISA TV"},
 
 {"descriptionNovela":"Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV 4"},
-
+ 
 {"descriptionNovela":"bbc drama est chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","titleNovela":"BBC DRAMA TV"},
 
 {"descriptionNovela":"NOVELAS TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
@@ -57,7 +59,7 @@
 
 {"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream.ads.ottera.tv/cl/230202cfe2j9kkkdi6agdatrg0/1280x720_1927200_0_f.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFRICAWOOD TV"},
 
-{"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bongo/03307164-cb55-447c-bb3b-962806c02c7b/2.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
+{"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
 {"descriptionNovela":"AM SHOWCASE TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["http://102.132.19.90:8080/AMSHOWCASE/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODY4NDkyNzZf/Amshowcase.png","titleNovela":"AM SHOWCASE TV"},
 
