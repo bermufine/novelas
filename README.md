@@ -65,6 +65,6 @@
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://181.119.66.30:8000/play/73/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
-{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://162.19.18.141:49214/TFX/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"},
+{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://149.62.183.207:4000/play/a02h/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"},
 
 {"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"}]}]}
