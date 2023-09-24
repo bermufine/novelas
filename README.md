@@ -61,7 +61,7 @@
 
 {"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://hls.newworldtv.com/nw-sport-4/video/live.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
-{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES FILMS"},
+{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES FILMS"},
 
 {"descriptionNovela":"Tierre de Mor y vengenza TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2OTlf/tierra.jpg","titleNovela":"TIERRA DE MOR"},
 
