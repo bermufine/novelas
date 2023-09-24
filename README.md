@@ -65,7 +65,7 @@
 
 {"descriptionNovela":"Tierre de Mor y vengenza TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2OTlf/tierra.jpg","titleNovela":"TIERRA DE MOR"},
 
-{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"}]}]}
+{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYxNjMwMjlf/TFX.png","titleNovela":"TFX TV"}]}]}
 
 {"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
 
