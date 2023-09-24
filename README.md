@@ -41,9 +41,9 @@
 
 {"descriptionNovela":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"MANJARO TV"},
 
-{"descriptionNovela":"Novelas TV 3  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://95.107.132.105/out/u/893_2.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"NOVELAS TV 4"},
+{"descriptionNovela":"Novelas TV 3  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"TELE NOVELAS"},
 
-{"descriptionNovela":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://95.107.132.105/out/u/996_2.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV 5"},
+{"descriptionNovela":"NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TURCAS"},
 
 {"descriptionNovela":"Novelas TV 6 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"NOVELAS TV 6"},
 
@@ -51,7 +51,7 @@
 
 {"descriptionNovela":"AfricaWood TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFROLAND TV 2"},
 
-{"descriptionNovela":"Teva TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["http://162.19.18.141:49214/TEVA/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
+{"descriptionNovela":"Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg","titleNovela":"NOVELISME"},
 
 {"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB"},
 
