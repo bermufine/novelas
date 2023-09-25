@@ -51,11 +51,15 @@
 
 {"descriptionNovela":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFROLAND TV 2"},
 
+{"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["http://102.132.19.90:8000/play/a038/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSION NOVELAS"},
+
 {"descriptionNovela":"Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg","titleNovela":"NOVELISME TV"},
 
 {"descriptionNovela":"Tierre de Amor y vengenza TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2OTlf/tierra.jpg","titleNovela":"TIERRA DE AMOR"},
 
 {"descriptionNovela":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
+
+{"descriptionNovela":"Welcome to the Collywood tv, a platform where we showcase movie and talk to your favorite actors and actresses, the people in the know, those making the industry move forward the mover and the shakers of our entertainment landscape all with the objective of cracking that code that will truly make us all successful, push the Cameroonian film culture forward, get you to know your stars better, opportunities to grasp in the movie industry","sourceNovela":["http://102.132.19.90:8000/play/a02k/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MTMzNjNf/collywood.jpeg","titleNovela":"COLLYWOOD TV"},
 
 {"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES FILMS"}]}]}
 
