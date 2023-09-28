@@ -75,7 +75,7 @@
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/6/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSIONES TV"},
 
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres {"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://livetv.ktv.zone/7/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://livetv.ktv.zone/7/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
 
 {"descriptionNovela":"Rcn Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://livetv.ktv.zone/8/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg","titleNovela":"RCN SERIES TV"},
 
@@ -86,7 +86,6 @@
 {"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://livetv.ktv.zone/11/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB"},
 
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://livetv.ktv.zone/12/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"IDF 1 TV"},
-congolais, films et series Africains pour votre divertissement","sourceNovela":["http://livetv.ktv.zone/1/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
 
 {"descriptionNovela":"Rcn Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://livetv.ktv.zone/13/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg","titleNovela":"RCN SERIES TV"},
 
@@ -105,7 +104,6 @@ congolais, films et series Africains pour votre divertissement","sourceNovela":[
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/20/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSIONES TV"},
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/21/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSIONES TV"},
-
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/22/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSIONES TV"},
 
