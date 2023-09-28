@@ -61,7 +61,11 @@
 
 {"descriptionNovela":"Welcome to the Collywood tv, a platform where we showcase movie and talk to your favorite actors and actresses, the people in the know, those making the industry move forward the mover and the shakers of our entertainment landscape all with the objective of cracking that code that will truly make us all successful, push the Cameroonian film culture forward, get you to know your stars better, opportunities to grasp in the movie industry","sourceNovela":["http://102.132.19.90:8000/play/a02k/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MTMzNjNf/collywood.jpeg","titleNovela":"COLLYWOOD TV"},
 
-{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES FILMS"}]}]}
+{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/22/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES"},
+
+{"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/3/play.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
+
+{"descriptionNovela":"TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/13/play.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TFX TV"}]}]}
 
 {"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"KIN MALEBO TV"},
 
@@ -76,7 +80,5 @@
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/chunklist_b4628000.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"IDF 1 TV"},
 
 {"descriptionNovela":"AB1 TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://162.19.18.141:49214/AB1/hls/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4MTJf/ab1.png","titleNovela":"AB1 TV"},
-
-{"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://hls.newworldtv.com/nw-sport-4/video/live.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://45.228.234.162:24000/play/a080/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSIONES TV"}
