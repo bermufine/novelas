@@ -1,6 +1,8 @@
 # novelas
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE TV"},
 
+{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"NOLLYWOOD TV"},
+
 {"descriptionNovela":"Romanza TV est une chaine des films et series pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg","titleNovela":"ROMANZA TV"},
 
 {"descriptionNovela":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titleNovela":"MABOKE TV"},
