@@ -53,7 +53,7 @@
 
 {"descriptionNovela":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","titleNovela":"AFROLAND TV 2"},
 
-{"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["http://168.227.22.18:1935/live/mobile-014/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSION SERIE"},
+{"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["http://168.227.22.18:1935/live/mobile-014/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzEyNTdf/Passiones.jpg","titleNovela":"PASSION SERIE"},
 
 {"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["http://102.132.19.90:8000/play/a038/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSION NOVELAS"},
 
@@ -69,31 +69,31 @@
 
 {"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9211.ts"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
-{"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/51148.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"TF1 SERIES FILMS"},
+{"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/51148.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTZf/tf1serie.jpeg","titleNovela":"TF1 SERIES FILMS"},
 
-{"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/50639.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"TFX TV"},
+{"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/50639.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NThf/tfxserie.jpg","titleNovela":"TFX TV"},
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://168.227.22.18:1935/live/mobile-040/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"TELEMUNDO"},
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://168.227.22.18:1935/live/mobile-152/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"TELEMUNDO INTERN."},
 
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15137.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titleNovela":"PARIS PREMIERE FHD"},
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15137.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"PARIS PREMIERE HD"},
 
 {"descriptionNovela":"TEVA Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/49805.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg","titleNovela":"TEVA FHD"},
 
-{"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15233.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png","titleNovela":"AB1 TV"},
+{"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15233.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg","titleNovela":"AB1 TV"},
 
-{"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9357.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"AB3 TV"},
+{"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9357.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODNf/AB3.png","titleNovela":"AB3 TV"},
 
-{"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/62893.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"NOVELAS TV"},
+{"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/62893.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS TV"},
 
-{"descriptionNovela":"Canal+ Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://168.227.22.18:1935/live/mobile-066/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg","titleNovela":"RCN NOVELAS"},
+{"descriptionNovela":"RCN Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://168.227.22.18:1935/live/mobile-066/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg","titleNovela":"RCN NOVELAS"},
 
-{"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9328.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png","titleNovela":"CANAL+ SERIE"},
+{"descriptionNovela":"Canal+ Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9328.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","titleNovela":"CANAL+ SERIE"},
 
 {"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-046/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png","titleNovela":"TNT SERIE"},
 
-{"descriptionNovela":"A3Serie Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-047/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png","titleNovela":"A3 SERIE"}
+{"descriptionNovela":"A3Serie Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-047/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODZf/A3Serie.png","titleNovela":"A3 SERIE"}
 
 
 
