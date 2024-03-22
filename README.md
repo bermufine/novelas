@@ -1,9 +1,11 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"TEVA Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://185.177.125.251:8080/teva/index.m3u8 "],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA HD"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"TEVA Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://185.177.125.251:8080/teva/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA HD"},
 
 {"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV"},
 
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
+
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/PARISPREMIER/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"PARIS PREMIERE"},
 
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
@@ -106,8 +108,6 @@ WORKING
 {"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/51123.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB FHD"},
 
 {"descriptionNovela":"Canal+ Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9328.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","titleNovela":"CANAL+ SERIE"},
-
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15137.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"PARIS PREMIERE HD"},
 
 {"descriptionNovela":"Welcome to the Collywood tv, a platform where we showcase movie and talk to your favorite actors and actresses, the people in the know, those making the industry move forward the mover and the shakers of our entertainment landscape all with the objective of cracking that code that will truly make us all successful, push the Cameroonian film culture forward, get you to know your stars better, opportunities to grasp in the movie industry","sourceNovela":["http://102.132.19.90:8000/play/a02k/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MTMzNjNf/collywood.jpeg","titleNovela":"COLLYWOOD TV"},
 
