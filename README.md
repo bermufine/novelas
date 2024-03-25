@@ -11,6 +11,8 @@
 
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
+{"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://185.177.125.251:8080/serieclub/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB FHD"},
+
 {"descriptionNovela":"Zee Magic TV est chaine de divertissement et des series indiennes pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/ZEEMAGIC/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfODA0NTIzMTJf/zeemagic.jpg","titleNovela":"ZEE MAGIC"},
 
 {"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/tf1/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 HD"},
