@@ -7,6 +7,8 @@
 
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
+{"descriptionNovela":"Canal+ Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/canalplusseries/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","titleNovela":"CANAL+ SERIE"},
+
 {"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.177.125.251:8080/NOLLYWOOD/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
 
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
@@ -30,6 +32,8 @@
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC CHANNEL"},
+
+{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.177.125.251:8080/tf1series/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES"},
  
 {"descriptionNovela":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sourceNovela":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","titleNovela":"BBC DRAMA TV"},
 
@@ -100,6 +104,7 @@ https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
 WORKING
 
 http://51.254.199.122:8080/N0llyW00dTV/index.m3u8
+http://livetv.ktv.zone/1/play.m3u8
 
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://45.159.74.13/NatGeoWild/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"NAT WILD"},
 
@@ -121,11 +126,9 @@ http://51.254.199.122:8080/N0llyW00dTV/index.m3u8
 
 {"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/51123.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB FHD"},
 
-{"descriptionNovela":"Canal+ Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9328.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","titleNovela":"CANAL+ SERIE"},
-
 {"descriptionNovela":"Welcome to the Collywood tv, a platform where we showcase movie and talk to your favorite actors and actresses, the people in the know, those making the industry move forward the mover and the shakers of our entertainment landscape all with the objective of cracking that code that will truly make us all successful, push the Cameroonian film culture forward, get you to know your stars better, opportunities to grasp in the movie industry","sourceNovela":["http://102.132.19.90:8000/play/a02k/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MTMzNjNf/collywood.jpeg","titleNovela":"COLLYWOOD TV"},
 
-{"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/1/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES"},
+
 
 {"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9211.ts"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
