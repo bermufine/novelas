@@ -7,8 +7,6 @@
 
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/PARISPREMIER/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"PARIS PREMIERE"},
-
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
 {"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/tf1/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 HD"},
@@ -77,7 +75,7 @@
 
 
 
-
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/PARISPREMIER/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"PARIS PREMIERE"},
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://livetv.ktv.zone/22/play.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"TF1 TV"},
 
