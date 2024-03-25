@@ -31,7 +31,7 @@
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
-{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/canalplusdecale/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"CANAL+ DECALE"},
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/canalplusdecale/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfODA0NjY4NTdf/decale.png","titleNovela":"CANAL+ DECALE"},
 
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC CHANNEL"},
 
@@ -76,6 +76,8 @@
 {"descriptionNovela":"Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg","titleNovela":"NOVELISME TV"},
 
 {"descriptionNovela":"Tierre de Amor y vengenza TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ1OTg2OTlf/tierra.jpg","titleNovela":"TIERRA DE AMOR"},
+
+{"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://185.177.125.251:8080/aplus/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://168.227.22.18:1935/live/mobile-040/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"TELEMUNDO"},
 
