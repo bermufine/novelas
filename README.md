@@ -7,7 +7,11 @@
 
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
+{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.177.125.251:8080/NOLLYWOOD/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
+
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
+
+{"descriptionNovela":"Zee Magic TV est chaine de divertissement et des series indiennes pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/ZEEMAGIC/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfODA0NTIzMTJf/zeemagic.jpg","titleNovela":"ZEE MAGIC"},
 
 {"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/tf1/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 HD"},
 
@@ -72,6 +76,12 @@
 {"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-046/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png","titleNovela":"TNT SERIE"},
 
 {"descriptionNovela":"A3Serie Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-047/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODZf/A3Serie.png","titleNovela":"A3 SERIE"}]}]}
+https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
+
+
+
+
+
 
 
 
@@ -81,11 +91,13 @@
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://45.159.74.14/Eurosport/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"EUROSPORT"},
 
-{"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://212.102.60.80/France3/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg","titleNovela":"FRANCE 3"},
+
 
 
 
 WORKING
+
+http://51.254.199.122:8080/N0llyW00dTV/index.m3u8
 
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://45.159.74.13/NatGeoWild/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"NAT WILD"},
 
