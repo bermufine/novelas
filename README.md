@@ -31,7 +31,11 @@
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA"},
 
+{"descriptionNovela":"Kin Malebo TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://185.177.125.251:8080/canalplusdecale/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2NTRf/parisPremier.png","titleNovela":"CANAL+ DECALE"},
+
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC CHANNEL"},
+
+{"descriptionNovela":"AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/AB1/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg","titleNovela":"AB1 TV"},
 
 {"descriptionNovela":"TF1 Series Films TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.177.125.251:8080/tf1series/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjQwNjNf/tf.gif","titleNovela":"TF1 SERIES"},
  
@@ -111,8 +115,6 @@ http://livetv.ktv.zone/1/play.m3u8
 {"descriptionNovela":"SERIE CLUB est la chaine qui diffuset des Series Mexicaines, Philipiennes et Bresiliennes....","sourceNovela":["http://45.159.74.13/NationalGeographic/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"NAT GÉO"},
 
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://99.27.51.147:8080/Infosport/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"INFOSPORTS TV"},
-
-{"descriptionNovela":"TNT Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/15233.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg","titleNovela":"AB1 TV"},
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9357.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODNf/AB3.png","titleNovela":"AB3 TV"},
 
