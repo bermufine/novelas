@@ -1,5 +1,5 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.177.125.251:8080/novelastv/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS TV"},
 
 {"descriptionNovela":"TEVA Séries Tv est l'une des chaines specialisee aux films et series Internationales....","sourceNovela":["http://185.177.125.251:8080/teva/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA HD"},
 
@@ -7,9 +7,11 @@
 
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
+{"descriptionNovela":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
+
 {"descriptionNovela":"Canal+ Series TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.177.125.251:8080/canalplusseries/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","titleNovela":"CANAL+ SERIE"},
 
-{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.177.125.251:8080/NOLLYWOOD/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
+{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
 
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
@@ -109,7 +111,11 @@ https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
 
 WORKING
 
-http://51.254.199.122:8080/N0llyW00dTV/index.m3u8
+http://185.177.125.251:8080/novelastv/index.m3u8
+
+http://185.177.125.251:8080/NOLLYWOOD/index.m3u8
+
+
 http://livetv.ktv.zone/1/play.m3u8
 
 {"descriptionNovela":"Idf1 TV est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement","sourceNovela":["http://45.159.74.13/NatGeoWild/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYyMjAxMzNf/IDF1.jpg","titleNovela":"NAT WILD"},
@@ -119,8 +125,6 @@ http://livetv.ktv.zone/1/play.m3u8
 {"descriptionNovela":"Passiones TV est une chaine televisee des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://99.27.51.147:8080/Infosport/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"INFOSPORTS TV"},
 
 {"descriptionNovela":"Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["http://vip.itvdom.com:25443/live/V59q29W2noX7/Suu2F71Mt3/9357.ts"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODNf/AB3.png","titleNovela":"AB3 TV"},
-
-{"descriptionNovela":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
 
 {"descriptionNovela":"Nolly Africa est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4333"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA3MjJf/nollyafrica.png","titleNovela":"NOLLY AFRICA 2"},
 
