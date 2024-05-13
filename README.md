@@ -11,8 +11,7 @@
 
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC"},
 
-{"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.59.221.131:8081/live/tf1/playlist.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
-
+{"descriptionNovela":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.59.221.131:8081/live/teva/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
 
 {"descriptionNovela":"Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","titleNovela":"NOVELAS 3"},
 
@@ -21,6 +20,8 @@
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
 
 {"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA"},
+
+{"descriptionNovela":"TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.59.221.131:8081/live/tf1/playlist.m3u8"],"subtitleNovela":"By Channel ","thumbNovela":"https://od.lk/s/M18yNTQyMjQwODdf/tfi.png","titleNovela":"TF1 TV"},
 
 {"descriptionNovela":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","titleNovela":"AFRIWOOD BLOCKBUSTER"},
 
@@ -45,8 +46,6 @@
 {"descriptionNovela":"Vix Novelasde Romance TV est l'une chaînes mexicaines qui diffuse les séries Novelas mexicaines en espagnole","sourceNovela":["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk4NDg5OTlf/Vixromance-1.jpg","titleNovela":"VIX ROMANCE"},
 
 {"descriptionNovela":"Tele Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg","titleNovela":"TELE NOVELA"},
-
-{"descriptionNovela":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://185.59.221.131:8081/live/teva/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg","titleNovela":"TEVA TV"},
 
 {"descriptionNovela":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleNovela":"RTI 2"},
 
