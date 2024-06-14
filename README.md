@@ -15,6 +15,8 @@
 
 {"descriptionNovela":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","titleNovela":"STAR+ NOVELAS"},
 
+{"descriptionNovela":"LCA TV est une chaine televisee des diversites Africaines et autres....","sourceNovela":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","titleNovela":"LCA TV"},
+
 {"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
 
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC"},
