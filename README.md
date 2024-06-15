@@ -95,7 +95,9 @@
 
 {"descriptionNovela":"A3Serie Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines","sourceNovela":["http://168.227.22.18:1935/live/mobile-047/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODZf/A3Serie.png","titleNovela":"A3 SERIE"},
 
-{"descriptionNovela":"ROK TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4212"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MDgzNDdf/rok.jpeg","titleNovela":"ROK TV"}]}]}
+{"descriptionNovela":"ROK TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4212"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTQ2MDgzNDdf/rok.jpeg","titleNovela":"ROK TV"},
+
+{"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://185.59.221.131:8081/live/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"}]}]}
 
 https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
 
