@@ -5,7 +5,7 @@
 
 {"descriptionNovela":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sourceNovela":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titleNovela":"MABOKE TV"},
 
-{"descriptionNovela":"Star Life TV est une chaine televisee qui diffuse que des theatres, films et series Indiens pour votre divertissement","sourceNovela":["http://185.59.221.131:8081/live/starlife/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMxMzIwMTBf/starlife.jpg","titleNovela":"STAR LIFE"},
+{"descriptionNovela":"Star Life TV est une chaine televisee qui diffuse que des theatres, films et series Indiens pour votre divertissement","sourceNovela":["http://185.59.221.131:8081/live/starlife/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMxMzI2Njhf/starlifetv.jpg","titleNovela":"STAR LIFE"},
 
 {"descriptionNovela":"Serie Fantatisque TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg","titleNovela":"SERIE FANTATISQUE"},
 
