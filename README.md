@@ -1,5 +1,7 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sourceNovela":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","titleNovela":"SUNU YEUF"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV"},
+
+{"descriptionNovela":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sourceNovela":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","titleNovela":"SUNU YEUF"},
 
 {"descriptionNovela":"Tele Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg","titleNovela":"TELE NOVELAS"},
 
@@ -9,9 +11,9 @@
 
 {"descriptionNovela":"Serie Fantatisque TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg","titleNovela":"SERIE FANTATISQUE"},
 
-{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV"},
+{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
 
-{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS 2"},
+{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS 3"},
 
 {"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
 
