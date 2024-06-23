@@ -1,7 +1,9 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDQ3OTI4NTlf/canalplusSerie.png","titleNovela":"CANAL+ SERIE"},
 
 {"descriptionNovela":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sourceNovela":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","titleNovela":"SUNU YEUF"},
+
+{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
 
 {"descriptionNovela":"Tele Novelas TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg","titleNovela":"TELE NOVELAS"},
 
@@ -15,8 +17,6 @@
 
 {"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titleNovela":"NOVELAS 3"},
 
-{"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD TV"},
-
 {"descriptionNovela":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceNovela":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleNovela":"A+ IVOIRE"},
 
 {"descriptionNovela":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","titleNovela":"STAR+ NOVELAS"},
@@ -24,6 +24,9 @@
 {"descriptionNovela":"LCA TV est une chaine televisee des diversites Africaines et autres....","sourceNovela":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","titleNovela":"LCA TV"},
 
 {"descriptionNovela":"Nollywood TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","titleNovela":"NOLLYWOOD 2"},
+
+{"descriptionNovela":"Serie Club TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://45.90.106.7:8779/play/BrQ286K7@B8M/index.m3u8
+"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","titleNovela":"SERIE CLUB"},
 
 {"descriptionNovela":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg","titleNovela":"SERIES NOVELAS"},
 
