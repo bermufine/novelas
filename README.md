@@ -32,6 +32,12 @@
 
 {"descriptionNovela":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceNovela":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","titleNovela":"AFRO MAGIC"},
 
+{"descriptionNovela":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://145.239.5.177:8080/214/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","titleNovela":"AM EPIC"},
+
+{"descriptionNovela":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://145.239.5.177:8080/215/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","titleNovela":"AM FAMILY"},
+
+{"descriptionNovela":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sourceNovela":["http://145.239.5.177:8080/216/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","titleNovela":"AM SHOWCASE"},
+
 {"descriptionNovela":"AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sourceNovela":["http://185.59.221.131:8081/live/ab1/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg","titleNovela":"AB1 TV"},
 
 {"descriptionNovela":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","titleNovela":"STAR+ NOVELAS"},
