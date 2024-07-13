@@ -1,5 +1,7 @@
 # novelas
-{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://145.239.5.177:8080/132/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
+{"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"NINA NOVELAS est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","titleNovela":"NINA NOVELAS"},
+
+{"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://145.239.5.177:8080/132/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
 
 {"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
 
@@ -57,8 +59,6 @@
 {"descriptionNovela":"Teen Serie TV 4  est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg","titleNovela":"TEEN SERIE"},
 
 {"descriptionNovela":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","titleNovela":"BONGO TV"},
-
-{"descriptionNovela":"NINA NOVELAS est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","titleNovela":"NINA NOVELAS"},
 
 {"descriptionNovela":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sourceNovela":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","titleNovela":"CINEMA HAUSA"},
 
