@@ -1,7 +1,7 @@
 # novelas
 {"categorieNovela":[{"name":"Movies","videos":[{"descriptionNovela":"NINA NOVELAS est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili","sourceNovela":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","titleNovela":"NINA NOVELAS"},
 
-{"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yODk0MDk4ODBf/passiones.jpeg","titleNovela":"PASSION NOVELAS"},
+{"descriptionNovela":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sourceNovela":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","titleNovela":"PASSION NOVELAS"},
 
 {"descriptionNovela":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceNovela":["http://145.239.5.177:8080/132/index.m3u8"],"subtitleNovela":"By Channel","thumbNovela":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titleNovela":"NOVELAS TV 2"},
 
